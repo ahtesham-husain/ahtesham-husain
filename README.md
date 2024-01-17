@@ -3,7 +3,6 @@
 
 ### Hi there 👋
 
-<!--
 **ahtesham-husain/ahtesham-husain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm Ahtesham Husain, born in Solapur(Maharashtra), India, and now living in Pune.
@@ -18,4 +17,3 @@ Skills:
 - Azure Kubernetes Service (AKS)
 - Continuous Integration and Continuous Delivery (CI/CD)
 - Docker
--->
